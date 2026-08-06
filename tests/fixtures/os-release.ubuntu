@@ -1,0 +1,4 @@
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu Test"
+

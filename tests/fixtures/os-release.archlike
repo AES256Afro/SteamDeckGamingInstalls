@@ -1,0 +1,4 @@
+ID=examplearch
+ID_LIKE="arch linux"
+PRETTY_NAME="Arch-like Test"
+
