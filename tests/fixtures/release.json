@@ -1,0 +1,16 @@
+{
+  "tag_name": "GE-Proton99-1",
+  "assets": [
+    {
+      "name": "GE-Proton99-1.tar.gz",
+      "browser_download_url": "https://example.invalid/GE-Proton99-1.tar.gz",
+      "digest": "sha256:abc123"
+    },
+    {
+      "name": "GE-Proton99-1.sha512sum",
+      "browser_download_url": "https://example.invalid/GE-Proton99-1.sha512sum",
+      "digest": "sha256:def456"
+    }
+  ]
+}
+
